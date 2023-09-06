@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Cristhian Gómez, a software engineering student 👨‍💻🚀</div>  
+### <div align="center">I'm Cristhian Gabriel Gómez De la Cruz, a software engineering student 👨‍💻🚀</div>  
   
 
 - 🔭 I’m currently studying at UPC  
