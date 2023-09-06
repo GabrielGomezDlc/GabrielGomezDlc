@@ -9,7 +9,7 @@
 - 🔭 I’m currently studying at UPC  
   
 
-- 🌱 I’m currently learning Angular and Vue.js  
+- 🌱 I’m currently learning Flutter 
   
 
 <br/>  
