@@ -9,7 +9,7 @@
 - 🔭 I’m currently studying at UPC  
   
 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Machine Learning with Tensroflow and Keras
   
 
 <br/>  
